@@ -1,0 +1,41 @@
+/* General Rules */
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  color: Khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+}
+
+h2 {
+  color: White;
+  font-size: 32px;
+}
+
+span {
+  color: Blue;
+  font-weight: bold;
+}
+
+/* Brushes Section */
+
+div.brushes h2 {
+  background-color: MediumSpringGreen;
+}
+
+/* Frames Section */
+
+div.frames h2 {
+  background-color: LightCoral;
+}
+
+/* Paint Section */
+
+div.paint h2 {
+  background-color: SkyBlue;
+}
